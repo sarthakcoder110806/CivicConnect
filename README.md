@@ -91,9 +91,8 @@ User authentication helps reduce fake and spam reports.
 
 ### Frontend
 
-- HTML5
-- CSS3
-- JavaScript
+- Flutter
+- Dart
 
 ### Backend & Cloud Services
 
@@ -122,7 +121,7 @@ User authentication helps reduce fake and spam reports.
                         |
                         v
                 🌐 WEB APPLICATION
-                 HTML + CSS + JS
+                    DART + Flutter
                         |
           +-------------+-------------+
           |             |             |
