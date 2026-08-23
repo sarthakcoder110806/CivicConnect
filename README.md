@@ -120,7 +120,7 @@ User authentication helps reduce fake and spam reports.
                     👤 CITIZEN
                         |
                         v
-                🌐 WEB APPLICATION
+                    🗺️ APPLICATION
                     DART + Flutter
                         |
           +-------------+-------------+
